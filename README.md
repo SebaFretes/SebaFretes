@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Fretes</h1>
 <h3 align="center">a Web Developer based in Asunción, Paraguay. I enjoy programming interesting, functional, and efficient software using current technologies.</h3>
 
-- 👀 I’m interested **in find a job that will give me an opportunity to deepen and improve my previously acquired programming skills, continue learning and create new projects to raise my qualifications.**
+- 👀 I’m seeking to join web projects and roles where I can demonstrate my programming skills, continue learning, and contribute to new initiatives that will elevate my qualifications.
 
 - 👨‍💻 All of my projects are available at [https://sample-service-name-35lr.onrender.com/](https://sample-service-name-35lr.onrender.com/)
 
