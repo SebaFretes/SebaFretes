@@ -3,8 +3,7 @@
 
 - 👀 I’m seeking to join web projects and roles where I can demonstrate my programming skills, continue learning, and contribute to new initiatives that will elevate my qualifications.
 
-- 👨‍💻 All of my projects are available at [https://sample-service-name-35lr.onrender.com/](https://sample-service-name-35lr.onrender.com/)
-
+- 👨‍💻 All of my projects are available at https://sebastianfretesportfolio.netlify.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jsebastianfretes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsebastianfretes/" height="30" width="40" /></a>
