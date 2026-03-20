@@ -6,4 +6,3 @@ scalable, maintainable solutions.
 
 - 💼 Currently working at Global Bridge Connections
 - 🚀 Main stack: React.js, TypeScript, NestJS, PostgreSQL
-- 🌐 Portfolio: [sebastianfretesportfolio.netlify.app](https://sebastianfretesportfolio.netlify.app/)
